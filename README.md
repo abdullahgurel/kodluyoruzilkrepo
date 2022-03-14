@@ -28,3 +28,7 @@ Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi d
 ## Licence 
 
 [MIT](http://google.com)
+
+## Proje Fotoğrafı
+
+![Image](https://github.com/abdullahgurel/kodluyoruzilkrepo/blob/main/img/kodluyoruzilkrepo.png)
